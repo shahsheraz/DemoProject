@@ -7,7 +7,7 @@ def sum_of_numbers(numbers):
     return total
 
 # Sample list of numbers
-numbers = [1, 2, 3, 4, 5, 15, 20]
+numbers = [1, 2, 3, 4, 5, 15, 20, 30, 40, 50]
 
 result = sum_of_numbers(numbers)
 print(f"The sum of numbers is: {result}")
